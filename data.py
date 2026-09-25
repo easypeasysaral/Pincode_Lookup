@@ -1,0 +1,22 @@
+PINCODE_DATA = {
+    "110001": {"city": "New Delhi", "district": "New Delhi", "state": "Delhi"},
+    "400001": {"city": "Mumbai", "district": "Mumbai", "state": "Maharashtra"},
+    "560001": {"city": "Bengaluru", "district": "Bengaluru Urban", "state": "Karnataka"},
+    "600001": {"city": "Chennai", "district": "Chennai", "state": "Tamil Nadu"},
+    "700001": {"city": "Kolkata", "district": "Kolkata", "state": "West Bengal"},
+    "500001": {"city": "Hyderabad", "district": "Hyderabad", "state": "Telangana"},
+    "462001": {"city": "Bhopal", "district": "Bhopal", "state": "Madhya Pradesh"},
+    "474001": {"city": "Gwalior", "district": "Gwalior", "state": "Madhya Pradesh"},
+    "482001": {"city": "Jabalpur", "district": "Jabalpur", "state": "Madhya Pradesh"},
+    "452001": {"city": "Indore", "district": "Indore", "state": "Madhya Pradesh"},
+    "302001": {"city": "Jaipur", "district": "Jaipur", "state": "Rajasthan"},
+    "226001": {"city": "Lucknow", "district": "Lucknow", "state": "Uttar Pradesh"},
+    "208001": {"city": "Kanpur", "district": "Kanpur Nagar", "state": "Uttar Pradesh"},
+    "201001": {"city": "Ghaziabad", "district": "Ghaziabad", "state": "Uttar Pradesh"},
+    "800001": {"city": "Patna", "district": "Patna", "state": "Bihar"},
+    "751001": {"city": "Bhubaneswar", "district": "Khordha", "state": "Odisha"},
+    "781001": {"city": "Guwahati", "district": "Kamrup Metro", "state": "Assam"},
+    "160001": {"city": "Chandigarh", "district": "Chandigarh", "state": "Chandigarh"},
+    "380001": {"city": "Ahmedabad", "district": "Ahmedabad", "state": "Gujarat"},
+    "395003": {"city": "Surat", "district": "Surat", "state": "Gujarat"}
+}
